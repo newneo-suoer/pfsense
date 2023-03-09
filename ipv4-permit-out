@@ -3214,3 +3214,22 @@
 172.224.106.253	# Akamai Technologies, Inc.
 172.224.106.254	# Akamai Technologies, Inc.
 172.224.106.255	# Akamai Technologies, Inc.
+212.224.123.69 # www.proxmox.com
+79.133.36.245 # forum.proxmox.com
+79.133.36.252 # pve.proxmox.com
+140.143.215.197 # aqara.com
+23.209.45.26 # cdn.samsungcloudsolution.com
+54.223.4.247 # accounts.nvgs.nvidia.cn
+163.172.34.17 # www.savegameworld.com
+23.197.56.53 # e673.dsce9.akamaiedge.net
+23.194.81.42 # e673.dsce9.akamaiedge.net
+23.194.81.175 # e673.dsce9.akamaiedge.net
+23.42.218.150 # akamaiedge.net
+23.46.26.53 # akamaiedge.net
+23.195.90.203 # akamaiedge.net
+23.195.90.186 # akamaiedge.net
+23.209.32.134 # akamaiedge.net
+23.195.91.200 # akamaiedge.net
+23.195.91.194 # su.itunes.apple.com
+23.219.69.118 # akamaiedge.net
+23.42.79.249 # akamaiedge.net
