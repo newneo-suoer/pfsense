@@ -90,19 +90,10 @@
 119.161.10.11 #  e1.ycpi.vip.sgb.yahoo.com
 119.23.80.179 #  msec.heytap.com
 119.23.84.100 #  store.oppo.com
-119.28.100.184 #  CODM
-119.28.101.99 #  sg.voice.gcloudcs.com COD
-119.28.111.18 #  COD Voice server
-119.28.112.121 #  CODM
-119.28.112.210 #  CODM
-119.28.115.219 #  CODM
-119.28.116.232 #  CODM
-119.28.116.95 #  CODM
-119.28.117.126 #  COD Voice
+119.28.101.99 #  sg.voice.gcloudcs.com
 119.28.121.254 #  stat.tpns.sgp.tencent.com
 119.28.206.193 #  cn.pool.ntp.org
 119.28.217.111 #  Speedtest
-119.28.98.172 #  COD Voice
 119.29.87.195 #  Aqara
 120.26.106.156 #  www.phoenixos.com
 120.46.141.4 #  _psis._udp.jpush.cn
@@ -226,7 +217,6 @@
 172.105.203.197 #  Plex
 172.105.245.178 #
 172.105.64.14 #  PLEX
-175.97.170.145 #  COD Voice
 176.31.195.20 #  prd-nperf-cluster01.fhsarl.net
 176.31.195.22 #  nperf
 176.58.107.84 #  plex
@@ -1032,7 +1022,6 @@
 51.195.62.36 # lezvo.vidstream.pro
 20.210.169.67 # fd.api.iris.microsoft.com
 23.33.7.60 # kv801.prod.do.dsp.mp.microsoft.com
-175.97.164.155 # chat codm
 20.198.2.140 # inference.location.live.net
 52.109.52.82 # odc.officeapps.live.com
 202.229.192.3 # jumpg-webapi.tokyo-cdn.com
@@ -1149,8 +1138,6 @@
 185.151.204.201 # adjust.com
 20.47.66.37 # microsoft.com
 98.98.157.18 # euimages98c2c8.cdn5th.com
-119.28.103.231 # CODM voice chats
-119.28.101.99 # CODM Voice Chat
 52.198.201.173 # global.quickconnect.to
 52.198.187.106 # global.quickconnect.to
 195.154.241.219 # get.videolan.org
