@@ -69,5 +69,6 @@
 23.35.195.171 # init.itunes.apple.com
 23.35.193.109 # gspe35-ssl.ls.apple.com 
 23.35.192.242 # cl3-cdn.origin-apple.com.akadns.net
+172.224.65.0/24 # probe.icloud.com
 
 
