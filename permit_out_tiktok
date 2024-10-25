@@ -1,0 +1,10 @@
+103.136.220.0/23 # TikTok SG # 512
+103.136.220.0/24 # TikTok SG # 256
+103.136.221.0/24 # TikTok SG # 256
+103.136.222.0/24 # TikTok SG # 256
+118.26.132.0/24 # TIKTOK PTE. LTD. # 256
+71.18.247.0/24 # Bytedance Inc. # 256
+71.18.251.0/24 # Bytedance Inc. # 256
+71.18.252.0/24 # Bytedance Inc. # 256
+71.18.253.0/24 # Bytedance Inc. # 256
+71.18.255.0/24 # Bytedance Inc. # 256
