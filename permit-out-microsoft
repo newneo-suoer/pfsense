@@ -105,3 +105,5 @@
 40.74.0.0/15 # Microsoft Corporation
 20.192.0.0/10 # Microsoft Corporation
 4.240.0.0/12 # Microsoft Corporation
+51.104.15.252 # v20.events.data.microsoft.com
+51.10.0.0/15 # Microsoft Corporation
