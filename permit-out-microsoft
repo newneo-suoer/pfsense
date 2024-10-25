@@ -1,3 +1,103 @@
 40.79.196.0/22 # Microsoft Corporation
 51.104.0.0/15 # Microsoft Corporation
 40.76.0.0/14 # Microsoft Corporation
+102.133.0.0/16 # Microsoft (S.A.) (Proprietary) Limited # 65,536
+102.133.0.0/17 # Microsoft # 32,768
+102.133.128.0/17 # Microsoft # 32,768
+102.211.187.0/24 # TouchBasePro PTY LTD # 256
+102.37.0.0/16 # Microsoft (S.A.) (Proprietary) Limited # 65,536
+102.37.0.0/17 # South Africa Allocations # 32,768
+102.37.128.0/17 # Microsoft (S.A.) (Proprietary) Limited # 32,768
+103.131.148.0/24 # ONEDEGREE GLOBAL (SG) PTE. LTD # 256
+103.131.149.0/24 # ONEDEGREE GLOBAL (SG) PTE. LTD # 256
+103.155.245.0/24 # Finstek Limited # 256
+103.158.243.0/24 # NORTHERN STEVEDORING SERVICES PTY LTD # 256
+103.164.237.0/24 # Caledfwlch Techniques # 256
+103.180.108.0/24 # Tiankai Network # 256
+103.249.62.0/24 # Lucidity Cloud Services Azure Tenant Usage # 256
+103.249.63.0/24 # Lucidity Cloud Services Azure hosted services # 256
+103.58.119.0/24 # Department of Premier and Cabinet MaPS IS # 256
+103.8.80.0/24 # Kiwi Wealth Investments Limited # 256
+104.146.128.0/17 # Microsoft Corporation # 32,768
+104.208.0.0/13 # Microsoft Corporation # 524,288
+104.237.40.0/24 # eHealth Data Solutions, LLC # 256
+104.40.0.0/13 # Microsoft Corporation # 524,288
+104.47.19.0/24 # Microsoft Corporation # 256
+108.140.0.0/14 # Microsoft Corporation # 262,144
+108.161.110.0/24 # Enterprise Integration, Inc. # 256
+109.246.0.0/16 # Microsoft Limited # 65,536
+111.221.16.0/21 # Microsoft # 2,048
+111.221.24.0/22 # Microsoft # 1,024
+111.221.29.0/24 # Microsoft # 256
+111.221.30.0/23 # Microsoft # 512
+111.221.64.0/18 # Microsoft # 16,384
+113.197.64.0/24 # SMX Ltd, Service Provider, Auckland # 256
+113.197.65.0/24 # Service Provider # 256
+113.197.66.0/24 # SMX Ltd, Service Provider, Auckland # 256
+113.197.67.0/24 # SMX Ltd # 256
+1.186.0.0/16 # Microsoft Limited # 65,536
+122.149.0.0/16 # Microsoft Limited # 65,536
+124.252.0.0/16 # Microsoft Limited # 65,536
+128.203.0.0/16 # Microsoft Limited # 65,536
+128.24.0.0/16 # Microsoft Limited # 65,536
+128.251.0.0/16 # Microsoft Limited # 65,536
+128.85.0.0/16 # Microsoft Limited # 65,536
+128.94.0.0/16 # Microsoft Singapore Pte. Ltd. # 65,536
+129.135.0.0/16 # Microsoft Limited # 65,536
+129.35.19.0/24 # Kyndryl # 256
+130.107.0.0/16 # Microsoft Limited # 65,536
+130.115.248.0/22 # Erasmus University Rotterdam (EUR) # 1,024
+130.115.252.0/22 # Erasmus University Rotterdam (EUR) # 1,024
+130.131.0.0/16 # Microsoft Limited # 65,536
+130.213.0.0/16 # Microsoft Limited # 65,536
+130.33.0.0/16 # Microsoft Limited # 65,536
+13.104.0.0/14 # Microsoft Corporation # 262,144
+13.107.14.0/24 # Microsoft Corporation # 256
+131.145.0.0/16 # Microsoft Corporation # 65,536
+131.163.0.0/16 # Microsoft Limited # 65,536
+131.189.0.0/16 # Microsoft Limited # 65,536
+131.253.1.0/24 # Microsoft Corp # 256
+131.253.12.0/22 # Microsoft Corp # 1,024
+131.253.128.0/17 # Microsoft Corp # 32,768
+131.253.24.0/21 # Microsoft Corp # 2,048
+131.253.32.0/20 # Microsoft Corp # 4,096
+131.253.5.0/24 # Microsoft Corp # 256
+131.253.6.0/24 # Microsoft Corp # 256
+131.253.61.0/24 # Microsoft Corp # 256
+131.253.62.0/23 # Microsoft Corp # 512
+131.253.8.0/24 # Microsoft Corp # 256
+132.164.0.0/16 # Microsoft Limited # 65,536
+132.196.0.0/16 # Microsoft Limited # 65,536
+132.220.0.0/16 # Microsoft Limited # 65,536
+132.245.0.0/16 # Microsoft Corp # 65,536
+134.112.0.0/16 # Microsoft Limited # 65,536
+134.138.0.0/16 # Microsoft Limited # 65,536
+134.149.0.0/16 # Microsoft Limited # 65,536
+134.170.0.0/16 # Microsoft Corp # 65,536
+134.33.0.0/16 # Microsoft Limited # 65,536
+135.116.0.0/16 # Microsoft Limited # 65,536
+135.119.0.0/16 # Microsoft Limited # 65,536
+135.130.0.0/16 # Microsoft Limited # 65,536
+135.13.0.0/16 # Microsoft Limited # 65,536
+135.149.0.0/16 # Microsoft Singapore Pte. Ltd. # 65,536
+135.171.0.0/16 # Microsoft Limited # 65,536
+135.18.0.0/16 # Microsoft Limited # 65,536
+135.183.0.0/16 # Microsoft Limited # 65,536
+135.185.0.0/16 # Microsoft Limited # 65,536
+135.220.0.0/16 # Microsoft Limited # 65,536
+135.221.0.0/16 # Microsoft Limited # 65,536
+135.222.0.0/16 # Microsoft Limited # 65,536
+135.224.0.0/15 # Microsoft Limited # 131,072
+135.226.0.0/16 # Microsoft Limited # 65,536
+135.228.0.0/16 # Microsoft Limited # 65,536
+135.229.0.0/16 # Microsoft Limited # 65,536
+135.230.0.0/16 # Microsoft Limited # 65,536
+135.232.0.0/14 # Microsoft Limited # 262,144
+135.236.0.0/15 # Microsoft Limited # 131,072
+135.240.0.0/16 # Microsoft Limited # 65,536
+135.241.0.0/16 # Microsoft Limited # 65,536
+135.244.0.0/16 # Microsoft Limited # 65,536
+135.246.0.0/16 # Microsoft Limited # 65,536
+135.247.0.0/16 # Microsoft Limited # 65,536
+135.254.0.0/16 # Microsoft Limited # 65,536
+135.255.0.0/16 # Microsoft Limited # 65,536
