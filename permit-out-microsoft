@@ -101,3 +101,4 @@
 135.247.0.0/16 # Microsoft Limited # 65,536
 135.254.0.0/16 # Microsoft Limited # 65,536
 135.255.0.0/16 # Microsoft Limited # 65,536
+4.241.20.0/22 # Microsoft Corporation
