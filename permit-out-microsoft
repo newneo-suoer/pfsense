@@ -110,3 +110,4 @@
 20.48.0.0/12 # Microsoft Corporation
 51.116.246.0/23 # Microsoft Corporation
 40.126.16.0/24 # Microsoft Corporation
+52.224.0.0/11 # Microsoft Corpora
